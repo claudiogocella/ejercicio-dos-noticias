@@ -1,0 +1,71 @@
+body {
+  /*background-color: thistle; */
+  background-image: url ("src/pagina-papel.jpg");
+}
+
+/*Color de fondo para "lista"*/
+.bloque1
+text align: left
+border: 5px  
+border-style: solidcolor
+border-color: #CCCCCC  
+background-color: lightblue;
+
+/*Selector tag*/
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: blueviolet;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+  font-style: italic;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+h1 {
+  color: royalblue;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: red;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+p {
+  text-align: justify;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+.lista-desordenada {
+  list-style-type: square;
+  background-color: lightblue;
+  border: 1px;
+  border-style: solid
+
+}
+
+/*ver página 35, clase 2 para poner texto al lado de la imnagen (flexbox)*/
