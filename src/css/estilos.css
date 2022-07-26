@@ -1,7 +1,7 @@
 body {
   /*background-color: thistle; */
-  background-image: url ("src/pagina-papel.jpg");
-}
+  background-image: url ("src/css/pagina-papel.jpg");
+  }
 
 /*Color de fondo para "lista"*/
 .bloque1
@@ -68,4 +68,4 @@ p {
 
 }
 
-/*ver página 35, clase 2 para poner texto al lado de la imnagen (flexbox)*/
+/*ver página 35, clase 2 para poner texto al lado de la imagen (flexbox)*/
